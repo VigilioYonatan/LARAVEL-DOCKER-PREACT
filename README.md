@@ -16,6 +16,9 @@ bun install
 # empezar modo de desarrollo
 bun serve
 bun dev
+
+# to access permission 
+chmod -R 777 storage
 ```
 
 ## Con Docker
